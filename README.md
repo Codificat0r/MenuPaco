@@ -3,10 +3,10 @@ Menu para dar soporte a los ejercicios de Paco.
 
 ## Contenido de la aplicación
 
-1. Conversor de divisas, *Ejercicio 1*.
-2. Visor de páginas web integrado, *Ejercicio 2*.
-3. Contador de cafés, *Ejercicio 3*.
-4. Comprobador de años bisiestos, *Ejercicio 4*.
+1. Conversor de divisas, **Ejercicio 1**.
+2. Visor de páginas web integrado, **Ejercicio 2**.
+3. Contador de cafés, **Ejercicio 3**.
+4. Comprobador de años bisiestos, **Ejercicio 4**.
 
 ## Fin de cada ejercicio
 
