@@ -8,26 +8,26 @@
         android:layout_width="200dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="Ejercicio 1" />
+        android:text="@string/btnEjercicio1" />
 
     <Button
         android:id="@+id/btnEjercicio2"
         android:layout_width="200dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="Ejercicio 2" />
+        android:text="@string/btnEjercicio2" />
 
     <Button
         android:id="@+id/btnEjercicio3"
         android:layout_width="200dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="Ejercicio 3" />
+        android:text="@string/btnEjercicio3" />
 
     <Button
         android:id="@+id/btnEjercicio4"
         android:layout_width="200dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="Ejercicio 4" />
+        android:text="@string/btnEjercicio4" />
 </LinearLayout>

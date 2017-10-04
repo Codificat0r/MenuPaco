@@ -1,3 +1,25 @@
 <resources>
+    <!-- Menú principal -->
     <string name="app_name">MenuPrincipal</string>
+    <string name="btnEjercicio1">Ejercicio 1</string>
+    <string name="btnEjercicio2">Ejercicio 2</string>
+    <string name="btnEjercicio3">Ejercicio 3</string>
+    <string name="btnEjercicio4">Ejercicio 4</string>
+
+    <!-- Conversor -->
+    <string name="rbtnEuroDolar">Euros a dólares</string>
+    <string name="rbtnDolarEuro">Dólares a euros</string>
+    <string name="btnConvertir">Convertir</string>
+
+    <!-- Pagina Web -->
+    <string name="btnExplorador">Ir</string>
+
+    <!-- Contador de cafés -->
+    <string name="txtCafes">Cafés</string>
+    <string name="txtNumero">0</string>
+    <string name="btnMas">+</string>
+    <string name="btnMenos">-</string>
+
+    <!-- Es bisiesto -->
+    <string name="btnComprobar">¿Es bisiesto?</string>
 </resources>

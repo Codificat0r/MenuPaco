@@ -9,13 +9,19 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name=".MenuActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".ConversorActivity" />
+        <activity android:name=".ContadorCafesActivity" />
+        <activity android:name=".EsBisiestoActivity" />
+        <activity android:name=".PaginaWebActivity" />
+        <activity android:name=".VisorWebActivity" />
     </application>
 
+    <uses-permission android:name="android.permission.INTERNET"/>
 </manifest>
