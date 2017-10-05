@@ -16,7 +16,7 @@ public class EsBisiestoActivity extends AppCompatActivity implements View.OnClic
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_es_bisiesto);
 
         edtAnio = (EditText)findViewById(R.id.edtAnio);
         btnComprobar = (Button)findViewById(R.id.btnComprobar);
